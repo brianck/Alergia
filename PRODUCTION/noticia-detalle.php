@@ -51,18 +51,7 @@ deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum
 
 		<!---SIDEBAR CONTENT-->
 		<aside class="sidebar_content">
-			<h1>Nuestra historia</h1>
-			<strong>Resumen histórico</strong>
-			<figure>
-				<img src="images/sidebarContent_img1.jpg" class="img-responsive" alt="image">
-			</figure>
-			<article>
-				<p>
-					La primera institución científica de alergología que existió en la Argentina se denominó “Sociedad para el Estudio de la Alergia”. 
-				</p>
-				<a href="#" class="pushLightBlue">VER MÁS &rarr;</a>
-			</article>
-
+			
 			<div class="sidebar_lightBlue">
 				<h1>Pacientes</h1>
 				<figure>
