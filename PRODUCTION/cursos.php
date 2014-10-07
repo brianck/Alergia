@@ -46,7 +46,7 @@
 				</p>
 				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
-
+			<hr>
 			<article>
 				<strong>Curso Superior de Especialistas</strong>
 				<p>
@@ -76,7 +76,7 @@
 				</p>
 				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
-
+			<hr>
 
 			<p></p>
 			<div class="row">
