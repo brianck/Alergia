@@ -178,7 +178,7 @@
 			</article>
 
 
-			<a href="#" class="separator">ver todos los cursos &rarr;</a>
+			<a href="eventos.php" class="separator">ver todos los eventos &rarr;</a>
 			
 			
 			<h1>Últimas Noticias</h1>
@@ -191,7 +191,7 @@
 						<p>
 						En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".
 						</p>
-						<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+						<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 					</article>
 				</div>
 
@@ -203,11 +203,11 @@
 						<p>
 						En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".
 						</p>
-						<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+						<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 					</article>
 				</div>
 			</div>
-			<a href="#" class="separator">ver todos los cursos &rarr;</a>
+			<a href="noticias.php" class="separator">ver todas las noticias &rarr;</a>
 			
 	
 		</section>
