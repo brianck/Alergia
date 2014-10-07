@@ -76,30 +76,43 @@ hr{
 	margin-bottom: 0px;
 }
 
+#formSpecial input[type="email"], #formSpecial input[type="password"], #formSpecial input[type="tel"], #formSpecial input[type="url"], #formSpecial input[type="text"]{
+	background: #d6d6d6;
+	color: #464646;
+}
+#formSpecial textarea{
+	background: #d6d6d6;
+	color: #7c7875;
+}
+#formSpecial button, #formSpecial input[type=button], #formSpecial input[type=reset], #formSpecial input[type=submit]{
+
+}
 button,input[type=button], input[type=reset], input[type=submit]{
 	background: #147cc1;
 	color: #fff;
-	padding: 8px 16px;
+	padding: 6px 16px;
 	text-transform: uppercase;
 	border-bottom: 3px solid #0c5484;
 	border-top: none;
 	border-left: none;
 	border-right: none;
 	font-style: normal;
-	text-decoration: none;	
+	text-decoration: none;
 	-moz-border-radius-topleft: 3px;
-	-moz-border-radius-topright:3px;
-	-moz-border-radius-bottomleft:3px;
-	-moz-border-radius-bottomright:3px;
-	-webkit-border-top-left-radius:3px;
-	-webkit-border-top-right-radius:3px;
-	-webkit-border-bottom-left-radius:3px;
-	-webkit-border-bottom-right-radius:3px;
-	border-top-left-radius:3px;
-	border-top-right-radius:3px;
-	border-bottom-left-radius:3px;
-	border-bottom-right-radius:3px;
+	-moz-border-radius-topright: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	-moz-border-radius-bottomright: 3px;
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
 	outline: none;
+	height: 41px;
+	font-size: 1em;
 }
 	button:hover,input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover,
 	button:active,input[type=button]:active, input[type=reset]:active, input[type=submit]:active{

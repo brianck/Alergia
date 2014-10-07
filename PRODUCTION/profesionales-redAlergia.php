@@ -95,7 +95,7 @@
 				Para suscribirse deberá completar el siguiente Formulario y enviarlo haciendo clik sobre Enviar.
 			</p>
 			</article>
-			<form action="" method="get" role="form">
+			<form action="" method="get" role="form" id="formSpecial">
 			<div class="row">
 				<div class="col-md-6">
 					<div class="form-group">
@@ -139,10 +139,18 @@
 				</div>
 				<div class="col-md-12">
 					<div class="form-group">
-						<textarea class="form-control" rows="3"></textarea>
+						<textarea class="form-control" rows="3">Comentarios</textarea>
 					</div>
 				</div>
+				
 			</div>
+				<div class="row">
+					<div class="col-md-9">
+					</div>
+					<div class="col-md-3">
+						<input type="submit" class="form-control" value="Enviar &rarr;">
+					</div>
+				</div>
             </form>
 		</section>
 		
