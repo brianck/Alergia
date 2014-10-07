@@ -20,7 +20,7 @@
 								<li class="submenu">
 									<a href="#">Institucional</a>
   									<ul class="subs">
-										<li class=""><a href="#"><span>Autoridades</span></a></li>
+										<li class=""><a href="institucional-autoridades.php"><span>Autoridades</span></a></li>
 										<li class=""><a href="#"><span>Comit&eacute;s Cient&iacute;ficos</span></a></li>
 										<li class=""><a href="institucional-comitesInstitucionales.php"><span>Comit&eacute;s Institucionales</span></a></li>
 										<li class=""><a href="#"><span>Adherentes Cient&iacute;ficos</span></a></li>

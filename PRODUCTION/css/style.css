@@ -75,6 +75,9 @@ hr{
 	float: left;
 	margin-bottom: 0px;
 }
+hr.separate{
+	margin: 20px 0;
+}
 
 #formSpecial input[type="email"], #formSpecial input[type="password"], #formSpecial input[type="tel"], #formSpecial input[type="url"], #formSpecial input[type="text"]{
 	background: #d6d6d6;
