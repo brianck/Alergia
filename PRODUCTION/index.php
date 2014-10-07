@@ -151,7 +151,7 @@
 			</article>
 
 
-			<a href="#" class="separator">ver todos los cursos &rarr;</a>
+			<a href="cursos.php" class="separator">ver todos los cursos &rarr;</a>
 
 			<h1>Cronograma de eventos</h1>
 			<article>
@@ -244,35 +244,6 @@
 			</div>
 
 			
-			<h1>Ubique un Alergólogo</h1>
-			<figure>
-				<img src="images/sidebarContent_img3.jpg" class="img-responsive" alt="image">
-			</figure>
-			<article>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-				</p>
-				<a href="#" class="pushLightBlue">BUSCAR &rarr;</a>
-			</article>
-
-			<div class="sidebar_darkBlue">
-				<h1>Registros AAAeIC Esvasa y Aines</h1>
-			</div>
-
-			<div class="sidebar_grey">
-				<h1>Accesos Rápidos</h1>
-				<a href="#" class="linkSidebar">La Asociación en los Medios</a>
-				<a href="#" class="linkSidebar">Links destacados</a>
-				<div id="logosSidebar">
-					<a href="#">
-						<img src="images/logoWorldAllergyWeek.jpg" alt="image">
-					</a>
-		
-					<a href="#">
-						<img src="images/logoFundaler.jpg" alt="image">
-					</a>		
-				</div>
-			</div>
 		</aside>
 		<!---/END - SIDEBAR CONTENT-->
 	</div>
