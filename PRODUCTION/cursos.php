@@ -2,7 +2,6 @@
 	require("header.php"); 
 	require("menu.php"); 
 	require("middle.php");
-	require("breadcrumb.php");
 ?>
 
 
