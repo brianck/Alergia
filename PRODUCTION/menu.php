@@ -65,7 +65,7 @@
 								<li class=""><a href="congresos.php">Congresos</a></li>
 								<li class=""><a href="cursos-home.php">Cursos</a></li>
 								<li class=""><a href="noticias.php">Noticias</a></li>
-								<li class=""><a href="#">Contacto</a></li>
+								<li class=""><a href="contactenos.php">Contacto</a></li>
 							</ul>
 							<!--
 							<a href="#" class="pushBlue login" data-toggle="modal" data-target="#modalLogin">LOGIN</a>
