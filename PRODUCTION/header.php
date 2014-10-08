@@ -33,7 +33,7 @@
 					</p>
 				</div>
 				<div class="col-md-3">
-					<a href="#" class="pushBlue login" data-toggle="modal" data-target="#modalLogin" id="btnLogout">LOGOUT</a>
+					<a href="#" class="pushBlue login" data-toggle="modal" data-target="#modalLogin" id="btnLogout">LOGIN</a>
 					<a href="#" class="user">Mi usuario</a>
 				</div>
 			</div>
