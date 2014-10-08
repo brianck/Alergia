@@ -21,7 +21,7 @@
 									<a href="#">Institucional</a>
   									<ul class="subs">
 										<li class=""><a href="institucional-autoridades.php"><span>Autoridades</span></a></li>
-										<li class=""><a href="#"><span>Comit&eacute;s Cient&iacute;ficos</span></a></li>
+										<li class=""><a href="institucional-comitesCientificos.php"><span>Comit&eacute;s Cient&iacute;ficos</span></a></li>
 										<li class=""><a href="institucional-comitesInstitucionales.php"><span>Comit&eacute;s Institucionales</span></a></li>
 										<li class=""><a href="#"><span>Adherentes Cient&iacute;ficos</span></a></li>
 										<li class=""><a href="institucional-socios.php"><span>Beneficios de ser socios</span></a></li>
@@ -37,13 +37,13 @@
 									</ul>
 								</li>
 								<li class="submenu">
-									<a>Socios</a>
+									<a href="">Socios</a>
 									<ul class="subs">
-										<li class=""><a href="#"><span>Pago de Cuota Social</span></a></li>
-										<li class=""><a href="#"><span>Archivos</span></a></li>
+										<li class=""><a href="#"  id="backLogin"><span>Pago de Cuota Social</span></a></li>
+										<li class=""><a href="http://archivos.alergia.org.ar/"><span>Archivos</span></a></li>
 										<li class=""><a href="#"><span>Rima</span></a></li>
-										<li class=""><a href="#"><span>Estatutos, Reglamentos, Memoria</span></a></li>
-										<li class=""><a href="#"><span>Consentimientos Informados</span></a></li>
+										<li class=""><a href="#"  id="backLogin"><span>Estatutos, Reglamentos, Memoria</span></a></li>
+										<li class=""><a href="#"  id="backLogin"><span>Consentimientos Informados</span></a></li>
 
 										<li class="submenu-sub">
 											<a>Valor T&eacute;cnico de consultas y Pr&aacute;cticas</a>
@@ -61,10 +61,10 @@
 										<li class=""><a href="#"><span>Inscribirse en un comit&eacute; cient&iacute;fico</span></a></li>
 									</ul>
 								</li>
-								<li class=""><a href="#">Eventos</a></li>
-								<li class=""><a href="#">Congresos</a></li>
+								<li class=""><a href="eventos.php">Eventos</a></li>
+								<li class=""><a href="congresos.php">Congresos</a></li>
 								<li class=""><a href="cursos-home.php">Cursos</a></li>
-								<li class=""><a href="#">Noticias</a></li>
+								<li class=""><a href="noticias.php">Noticias</a></li>
 								<li class=""><a href="#">Contacto</a></li>
 							</ul>
 							<!--

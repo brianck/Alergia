@@ -252,7 +252,7 @@ header{
 	top: 30px;
 }
 	#menu{
-		text-transform: uppercase;
+		text-transform: uppercase; 
 
 	}
 	#menu a{
@@ -1101,11 +1101,13 @@ a.user{
 		top: 0;
 	}
 	#menu{
-		width: 835px;
+		width: 850px;
 		margin: 0 auto;
+		height: 35px; 
 	}
 	#menu ul{
 		margin: 15px 0;
+		width: 100%; 
 	}
 
 	#menu ul.subs{
