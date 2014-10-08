@@ -253,10 +253,10 @@ header{
 }
 	#menu{
 		text-transform: uppercase;
-		width: 740px;
+
 	}
 	#menu a{
-		padding: 26px 6px;
+		padding: 8px 6px;
 		font-style: normal;
 		text-decoration: none;
 	}
@@ -373,12 +373,7 @@ header{
 		#pageTop a{
 			color: #06caff;
 		}
-		a.user{
-			float: right;
-			margin: 0 36px 0 0;
-			text-decoration: none;
-			font-style: normal;
-		}
+		
 /*END - CONTENT MIDDEL*/
 
 #wrapper_breadcrumb{
@@ -853,6 +848,16 @@ footer{
 	background-color: #d6d6d6;
 	color: #464646;
 }
+
+p#address{
+	display: none;
+}
+a.user{
+	display: none;
+}
+#btnLogout{
+	display: none;
+}
 /*// Small screens*/
 /* Define mobile styles */
 @media only screen {
@@ -1051,6 +1056,26 @@ footer{
 		float: right;
 	}
 
+	p#address{
+		padding: 51px 0 0 0;
+		text-align: center;
+		display: block;
+	}
+	#btnLogout{
+		display: block;
+		float: right;
+		margin: 25px 0 0 0;
+	}
+	a.user{ 
+		display: block;
+		float: right;
+		margin: 16px 0 0 0;
+		text-decoration: none;
+		font-style: normal;
+		width: 100%;
+		text-align: right;
+	}
+
 }
 
 
@@ -1071,8 +1096,21 @@ footer{
 /*//////Large screens//////*/
 /* min-width 1025px, large screens */
 @media only screen and (min-width: 64.063em) {
+	#wrapper_menu{
+		position: relative;
+		top: 0;
+	}
 	#menu{
-		float: right;
+		width: 835px;
+		margin: 0 auto;
+	}
+	#menu ul{
+		margin: 15px 0;
+	}
+
+	#menu ul.subs{
+		margin: 0;
+
 	}
 	.navbar-collapse{
 		padding: 0;

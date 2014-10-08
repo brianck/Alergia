@@ -61,11 +61,15 @@
 										<li class=""><a href="#"><span>Inscribirse en un comit&eacute; cient&iacute;fico</span></a></li>
 									</ul>
 								</li>
-								<li class=""><a href="#">Noticias</a></li>
+								<li class=""><a href="#">Eventos</a></li>
+								<li class=""><a href="#">Congresos</a></li>
 								<li class=""><a href="cursos-home.php">Cursos</a></li>
+								<li class=""><a href="#">Noticias</a></li>
 								<li class=""><a href="#">Contacto</a></li>
 							</ul>
+							<!--
 							<a href="#" class="pushBlue login" data-toggle="modal" data-target="#modalLogin">LOGIN</a>
+							-->
 						</div>
 						</div>
 					</nav>

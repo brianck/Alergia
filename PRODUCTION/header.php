@@ -24,6 +24,26 @@
 <header>
 	<div class="container contentCenter">
 		<div id="wrapper_header">
+			<div class="row">
+				<div class="col-md-3">
+				</div>
+				<div class="col-md-6">
+					<p id="address">
+						Moreno 909, CABA, Argentina - (+54) 11 4334 7680 
+					</p>
+				</div>
+				<div class="col-md-3">
+					<a href="#" class="pushBlue login" data-toggle="modal" data-target="#modalLogin" id="btnLogout">LOGOUT</a>
+					<a href="#" class="user">Mi usuario</a>
+				</div>
+			</div>
+			
+			
+			<!--
+			
+			<br/><br/>
+			
+			-->
 		</div>
 	</div>
 </header>
