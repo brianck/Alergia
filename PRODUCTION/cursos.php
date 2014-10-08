@@ -1,7 +1,7 @@
 <?php 
 	require("header.php"); 
 	require("menu.php"); 
-	require("middle.php");
+	require("breadcrumb.php"); 
 ?>
 
 
@@ -23,7 +23,7 @@
 					Coordinador: Dr. Martín Bozzola<br/>
 					Duración : 7/8/14 al 27/11/14
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			<hr>
 
@@ -32,7 +32,7 @@
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			<hr>
 
@@ -43,7 +43,7 @@
 				<p>
 				Como todos los años se ha conformado un Comité Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			<hr>
 			<article>
@@ -53,7 +53,7 @@
 					Coordinador: Dr. Martín Bozzola<br/>
 					Duración : 7/8/14 al 27/11/14
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			<hr>
 
@@ -62,7 +62,7 @@
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			<hr>
 
@@ -73,7 +73,7 @@
 				<p>
 				Como todos los años se ha conformado un Comité Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			<hr>
 

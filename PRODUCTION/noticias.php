@@ -20,7 +20,7 @@
 				<p>
 				En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".asistente herramientas 
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -33,7 +33,7 @@
 				<p>
 				En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".asistente herramientas 
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -46,7 +46,7 @@
 				<p>
 				En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".asistente herramientas 
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -59,7 +59,7 @@
 				<p>
 				En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".asistente herramientas 
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -72,7 +72,7 @@
 				<p>
 				En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".asistente herramientas 
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -85,7 +85,7 @@
 				<p>
 				En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".asistente herramientas 
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -98,7 +98,7 @@
 				<p>
 				En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".asistente herramientas 
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -111,7 +111,7 @@
 				<p>
 				En reconocimiento que las enfermedades alérgicas son un problema de salud que adquiere proporciones pandemicas, la EACCI desarrollo "Global Atlas of Allergy".asistente herramientas 
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="noticia-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -148,7 +148,7 @@
 			<figure>
 				<img src="images/sidebarContent_img1.jpg" class="img-responsive" alt="image">
 			</figure>
-			<article>
+			<article> 
 				<p>
 					La primera institución científica de alergología que existió en la Argentina se denominó “Sociedad para el Estudio de la Alergia”. 
 				</p>

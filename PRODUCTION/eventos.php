@@ -19,7 +19,7 @@
 				<p>
 				Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="evento-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -31,7 +31,7 @@
 				<p>
 				Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="evento-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -44,7 +44,7 @@
 				<p>
 				Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="evento-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -56,7 +56,7 @@
 				<p>
 				Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="evento-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -68,7 +68,7 @@
 				<p>
 				Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="evento-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -80,7 +80,7 @@
 				<p>
 				Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="evento-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>

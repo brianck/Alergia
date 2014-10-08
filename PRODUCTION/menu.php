@@ -63,7 +63,7 @@
 								</li>
 								<li class=""><a href="eventos.php">Eventos</a></li>
 								<li class=""><a href="congresos.php">Congresos</a></li>
-								<li class=""><a href="cursos-home.php">Cursos</a></li>
+								<li class=""><a href="cursos.php">Cursos</a></li>
 								<li class=""><a href="noticias.php">Noticias</a></li>
 								<li class=""><a href="contactenos.php">Contacto</a></li>
 							</ul>

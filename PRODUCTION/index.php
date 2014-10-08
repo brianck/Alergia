@@ -76,7 +76,7 @@
 						totam rem aperiam, eaque ipsa quae ab illo inventore<br/>
 						veritatis et quasi architecto.
 						</p>
-						<a href="#">ver m&aacute;s &rarr;</a>
+						<a href="noticia-detalle.php">ver m&aacute;s &rarr;</a>
 					</div>
 				</div>
 			</div>	
@@ -99,7 +99,7 @@
 					en la Argentina se denominó “Sociedad para el Estudio de la Alergia”.<br/>
 					Su fundación tuvo lugar el 9 de enero de 1940 .
 				</p>
-				<a href="#">ver m&aacute;s &rarr;</a>
+				<a href="congreso-detalle.php">ver m&aacute;s &rarr;</a>
 			</section>
 			<aside class="sidebar_news">
 				<img src="images/imgNews1.jpg" class="image-responsive" alt="new1">
@@ -126,7 +126,7 @@
 					Coordinador: Dr. Martín Bozzola<br/>
 					Duración : 7/8/14 al 27/11/14
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			<hr>
 
@@ -135,7 +135,7 @@
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			<hr>
 
@@ -146,7 +146,7 @@
 				<p>
 				Como todos los años se ha conformado un Comité Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="cursos-home.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 
 
@@ -160,7 +160,7 @@
 				<p>
 				Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 				</p>
-				<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+				<a href="evento-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 			</article>
 			</article>
 			<hr>
@@ -172,7 +172,7 @@
 					<p>
 					Científico de calidad y experiencia, que hace a la excelencia del evento. En esta edición se profundizará en el desarrollo de temas de relevancia práctica sustentada en las guías y evidencias.
 					</p>
-					<a href="#" class="pushBlue">VER MÁS &rarr;</a>
+					<a href="evento-detalle.php" class="pushBlue">VER MÁS &rarr;</a>
 				</article>
 			</article>
 
@@ -226,7 +226,7 @@
 				<p>
 					La primera institución científica de alergología que existió en la Argentina se denominó “Sociedad para el Estudio de la Alergia”. 
 				</p>
-				<a href="#" class="pushLightBlue">VER MÁS &rarr;</a>
+				<a href="institucional-historia.php" class="pushLightBlue">VER MÁS &rarr;</a>
 			</article>
 
 			<div class="sidebar_lightBlue">

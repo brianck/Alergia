@@ -25,6 +25,20 @@ $(document).ready(function() {
 		$('#modalLogin').modal('show');
 	});
 
+	//Modal Open Lost Password Form
+	$('#newUser').click(function(){
+		$('#modalLogin').modal('hide');
+		$('#modalNewUser').modal('show');
+	});
+
+		//Modal Open Login Form
+	$('#backLogin2').click(function(){
+		$('#modalNewUser').modal('hide');
+		$('#modalLogin').modal('show');
+	});
+
+
+
 	
 	$('#menu ul.nav li.submenu').hover(function() {
 		$(this).addClass("active");
