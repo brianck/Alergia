@@ -23,7 +23,7 @@
 										<li class=""><a href="institucional-autoridades.php"><span>Autoridades</span></a></li>
 										<li class=""><a href="institucional-comitesCientificos.php"><span>Comit&eacute;s Cient&iacute;ficos</span></a></li>
 										<li class=""><a href="institucional-comitesInstitucionales.php"><span>Comit&eacute;s Institucionales</span></a></li>
-										<li class=""><a href="#"><span>Adherentes Cient&iacute;ficos</span></a></li>
+										<li class=""><a href="institucional-adherentesCientificos.php"><span>Adherentes Cient&iacute;ficos</span></a></li>
 										<li class=""><a href="institucional-socios.php"><span>Beneficios de ser socios</span></a></li>
 										<li class=""><a href="institucional-historia.php"><span>Historia de la Asociación</span></a></li>
 									</ul>
@@ -62,18 +62,9 @@
 									</ul>
 								</li>
 								<li class=""><a href="eventos.php">Eventos</a></li>
-								<li class=""><a href="#">Educaci&oacute;n</a></li>
-								<!--<li class=""><a href="congresos.php">Congresos</a></li>
-								<li class=""><a href="cursos.php">Cursos</a></li>-->
+								<li class=""><a href="congresos.php">Congresos</a></li>
+								<li class=""><a href="cursos.php">Cursos</a></li>
 								<li class=""><a href="noticias.php">Noticias</a></li>
-								<li class=""><a href="#">Pacientes</a></li>
-								<li class="submenu">
-									<a>Registros</a>
-									<ul class="subs">
-										<li class=""><a href="registros-esava.php"><span>ESAVA</span></a></li>
-										<li class=""><a href="registros-aines.php"><span>AINES</span></a></li>
-									</ul>
-								</li>
 								<li class=""><a href="contactenos.php">Contacto</a></li>
 							</ul>
 							<!--

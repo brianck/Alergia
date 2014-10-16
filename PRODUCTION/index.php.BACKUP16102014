@@ -1,6 +1,6 @@
 <?php 
-	require("header.php"); 
-	require("menu.php"); 
+	require("inc/header.php"); 
+	require("inc/menu.php"); 
 ?>
 
 
@@ -255,7 +255,7 @@
 			</article>
 
 			<div class="sidebar_darkBlue">
-				<h1>Registros AAAeIC <a href="registros-esava.php">Esvasa</a> y <a href="registros-aines.php">Aines</a></h1>
+				<h1>Registros AAAeIC Esvasa y Aines</h1>
 			</div>
 
 			<div class="sidebar_grey">
@@ -281,7 +281,7 @@
 
 
 <?php 
-	require("topPage.php");
-	require("footer.php");
+	require("inc/topPage.php");
+	require("inc/footer.php");
 ?>
 

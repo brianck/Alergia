@@ -79,18 +79,13 @@ hr.separate{
 	margin: 20px 0;
 }
 
-#formSpecial input[type="email"], #formSpecial input[type="password"], #formSpecial input[type="tel"], #formSpecial input[type="url"], #formSpecial input[type="text"], #formSpecial select{
-
+#formSpecial input[type="email"], #formSpecial input[type="password"], #formSpecial input[type="tel"], #formSpecial input[type="url"], #formSpecial input[type="text"]{
 	background: #d6d6d6;
 	color: #464646;
-}
-#formSpecial select{
-	color: #707070;
 }
 #formSpecial textarea{
 	background: #d6d6d6;
 	color: #7c7875;
-	padding: 6px 16px;
 }
 #formSpecial button, #formSpecial input[type=button], #formSpecial input[type=reset], #formSpecial input[type=submit]{
 
@@ -143,9 +138,7 @@ input[type="email"], input[type="password"], input[type="tel"], input[type="url"
 	-webkit-box-shadow: none;
 	box-shadow: none;
 }
-input[type=radio]{
-	margin: 4px 11px 0 0;
-}
+
 .form-control:focus{
 	border:none;
 	outline: 0;
@@ -347,13 +340,14 @@ header{
 	}
 	#wrapper_menu ul li.submenu ul.subs-sub a{
 		color: #fff;
-		background: #06caff;
 		padding-left: 55px;
 		padding-right: 20px;
+		background: url("../images/borderSubmenu.png") center bottom no-repeat #06caff;
 	}
 	#wrapper_menu ul li.submenu ul.subs-sub a:hover{
 		color: #151347;
-		background: #06caff;
+		background: url("../images/borderSubmenu.png") center bottom no-repeat #06caff;
+
 	}
 
 
@@ -598,7 +592,7 @@ header{
 				width: 100%;
 				float: left;
 			}
-			.main_content strong{
+			.main_content	strong{
 				font-size: 24px;
 				color: #147cc1;
 				font-weight: normal;
@@ -761,17 +755,6 @@ header{
 				width: 100%;
 				float: left;
 				background: #0c6dad;
-			}
-
-			.sidebar_darkBlue a{
-				color: #fff;
-				font-family: 'open_sanslight', sans-serif;
-				font-style: normal;
-				font-weight: normal;
-			}
-
-			.sidebar_darkBlue a:hover{
-				color: #06caff;
 			}
 /*END - CONTENT*/
 
@@ -985,16 +968,12 @@ a.user{
 		min-height: 0;
 	}
 
-	.contentGrey select{
-		margin-bottom: 5px;
-	}
+
 	
 
 
 } 
 @media only screen and (max-width: 767px) { 
-
-
 	.navbar-nav{
 		background: #fff;
 		margin: 45px -15px;
@@ -1018,9 +997,7 @@ a.user{
 @media only screen and (min-width: 40.063em) {
 
 
-	.contentGrey select{
-		margin-bottom: 5px;
-	}
+
 
 
 /*
@@ -1125,13 +1102,12 @@ a.user{
 		top: 0;
 	}
 	#menu{
-		/*width: 850px;*/
-		width: 100%;
-		margin: 0 auto;
+		width: 850px;
+		margin: 14px auto;
 		height: 35px; 
 	}
 	#menu ul{
-		margin: 15px 0;
+		/*margin: 15px 0;*/
 		width: 100%; 
 	}
 
@@ -1171,87 +1147,3 @@ a.user{
 } 
 
 
-/*Registros*/
-.contentGrey{
-	background: #ececec;
-	padding-bottom: 48px;
-}
-
-
-.contentGrey strong.large, strong{
-	color: #147cc1;
-	font-weight: normal;
-	width: 100%;
-	float: left;
-	margin: 32px 0 0 0;
-	letter-spacing: -1px;
-	line-height: 24px;
-}
-
-.contentGrey strong{
-	font-size: 1.250em;
-}
-
-.contentGrey strong.large{
-	font-size: 1.500em;
-}
-
-.contentGrey hr{
-	margin-top: 11px;
-	margin-bottom: 25px;
-}
-
-
-.contentGrey h1{
-	color: #464646;
-	font-family: 'open_sanslight';
-	font-size: 3em;
-	border-bottom: 3px solid #147cc1;
-	padding-bottom: 8px;
-	width: auto;
-	float: left;
-	letter-spacing: -2px;
-	display: inline-table;
-	margin: 0 0 32px 0;	
-}
-
-.contentGrey p{
-	letter-spacing: -1px;
-	width: 100%;
-	float: left;
-}
-
-.contentGrey em{
-	margin-top: 9px;
-	margin-bottom: 20px;
-	float: left;
-	letter-spacing: -1px;
-}
-
-.contentGrey select{
-	float: left;
-	color: #a9a9a9;
-}
-
-.contentGrey .day{
-	width: 90px;
-	margin-right: 10px;
-}
-
-.contentGrey .month{
-	width: 90px;
-	margin-right: 10px;
-}
-
-.contentGrey .year{
-	width: 90px;	
-}
-
-.contentGrey textarea{
-	width: 100%;
-	border: none;
-}
-
-.contentGrey input[type="submit"]{
-	float: right;
-}
