@@ -1,7 +1,7 @@
 <?php 
-	require("header.php"); 
-	require("menu.php"); 
-	require("breadcrumb.php"); 
+	require("inc/header.php"); 
+	require("inc/menu.php"); 
+	require("inc/breadcrumb.php"); 
 ?>
 
 
@@ -126,7 +126,6 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
                 		<p>Manifestaciones Sistemáticas</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -137,7 +136,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
                 		<p>Manifestaciones Gastrointestinales</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -148,7 +146,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
                 		<p>Factores Coadyuvantes</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -162,14 +159,12 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<p>Evolución<br/>(Tiempo de duración de la reacción)</p>
                 		<select>
                 			<option>Seleccione</option>
                 			<option>1</option>
                 			<option>2</option>
                 		</select>
-                		<p>&nbsp;</p>
                 		<p>Vía de Administración del AINE</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -180,27 +175,21 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
                 		<p>Marque el o los AINES responsables de la reacción</p>
                 		<input type="radio" name="condition" value="Acido acetil salicílico">Acido acetil salicílico<br/>
 						<input type="radio" name="condition" value="Diclofenac">Diclofenac<br/>
 						<input type="radio" name="condition" value="Ibuprofeno">Ibuprofeno<br/>
 						<input type="radio" name="condition" value="Dipirona">Dipirona<br/>
 						<input type="radio" name="condition" value="Acido mefenamico">Acido mefenamico<br/>
-						<p>&nbsp;</p>
                 	</div>
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
-                		<p>&nbsp;</p>
-                		<p>&nbsp;</p>
                 		<input type="radio" name="condition" value="Ketorolac">Ketorolac<br/>
 						<input type="radio" name="condition" value="Paracetamol">Paracetamol<br/>
 						<input type="radio" name="condition" value="Meloxicam">Meloxicam<br/>
 						<input type="radio" name="condition" value="Celecoxib">Celecoxib<br/>
 						<input type="radio" name="condition" value="Otro">Otro<br/>
-						<p>&nbsp;</p>
                 	</div>
 				</div>
 			</div>
@@ -218,7 +207,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
                 		<p>¿Recibió tratamiento?¿Cuál fue?</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -229,7 +217,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
                 		<p>Se suspendió AINES sospechoso</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -253,14 +240,12 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<input type="text" class="form-control" placeholder="Indique brevemente cual">
 						<em>50 caracteres disponibles.</em>
                 	</div>
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<p>Enfermedad crónica subyacente</p>
 						<select>
                 			<option>Seleccione</option>
@@ -284,7 +269,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<input type="text" class="form-control" placeholder="Cual o cuales">
 						<em>50 caracteres disponibles.</em>
                 	</div>
@@ -339,7 +323,6 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<p>Prueba de Provocación Controlada</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -397,7 +380,6 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<p>Test de Granulación de Basofilos</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -408,7 +390,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
                 		<p>CD63</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -419,7 +400,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<p>CD23c</p>
                 		<select>
                 			<option>Seleccione</option>
@@ -432,7 +412,6 @@
 
 			<div class="row">
 				<div class="col-md-12">
-					<p>&nbsp;</p>
 					<input type="submit" value="Enviar &rarr;">
 				</div>
 			</div>
@@ -448,6 +427,6 @@
 
 <?php 
 	require("topPage.php");
-	require("footer.php");
+	require("inc/footer.php");
 ?>
 

@@ -1,7 +1,7 @@
 <?php 
-	require("header.php"); 
-	require("menu.php"); 
-	require("breadcrumb.php"); 
+	require("inc/header.php"); 
+	require("inc/menu.php"); 
+	require("inc/breadcrumb.php"); 
 ?>
 
 
@@ -133,18 +133,15 @@
 						<input type="radio" name="condition" value="Inmunodeficiencias">Inmunodeficiencias<br/>
 						<input type="radio" name="condition" value="Cardiopatias">Cardiopatías<br/>
 						<input type="radio" name="condition" value="Otras">Otras<br/>
-						<p>&nbsp;</p>
+
                 	</div>
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-                		<p>&nbsp;</p>
-                		<p>&nbsp;</p>
                 		<input type="radio" name="condition" value="Diabetes">Diabetes<br/>
 						<input type="radio" name="condition" value="Enfermedades autoinmunes">Enfermedades autoinmunes<br/>
 						<input type="radio" name="condition" value="Hipertensión arterial">Hipertensión arterial<br/>
 						<input type="radio" name="condition" value="Ninguna">Ninguna<br/>
-						<p>&nbsp;</p>
                 	</div>
 				</div>
 			</div>
@@ -294,13 +291,11 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<p>Fase del tratamiento en que ocurrió el ESAVA</p>
                 	</div>
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
                 		<select>
                 			<option>Seleccione</option>
                 			<option>1</option>
@@ -379,7 +374,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<input type="text" class="form-control" placeholder="Lote/Serie">
 						<em>50 caracteres disponibles.</em>
                 	</div>
@@ -410,7 +404,6 @@
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<input type="text" class="form-control" placeholder="Detalle Cual?">
 						<em>50 caracteres disponibles.</em>
                 	</div>
@@ -430,21 +423,18 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<input type="text" class="form-control" placeholder="Concentración">
 						<em>50 caracteres disponibles.</em>
                 	</div>
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<input type="text" class="form-control" placeholder="Dosis">
 						<em>50 caracteres disponibles.</em>
                 	</div>
 				</div>
 				<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
 						<input type="text" class="form-control" placeholder="Sitio de aplicaci&oacute;n">
 						<em>50 caracteres disponibles.</em>
                 	</div>
@@ -473,7 +463,7 @@
 				</div>
 			<div class="col-md-4">
 					<div class="form-group">
-						<p>&nbsp;</p>
+			
 						<input type="text" class="form-control" placeholder="Cantidad de Minutos">
 						<em>50 caracteres disponibles.</em>
                 	</div>
@@ -669,6 +659,6 @@
 
 <?php 
 	require("topPage.php");
-	require("footer.php");
+	require("inc/footer.php");
 ?>
 
