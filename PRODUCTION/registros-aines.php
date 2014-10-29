@@ -409,10 +409,11 @@
                 	</div>
 				</div>
 			</div>
-
+			<hr>
 			<div class="row">
 				<div class="col-md-12">
 					<input type="submit" value="Enviar &rarr;">
+					
 				</div>
 			</div>
 
